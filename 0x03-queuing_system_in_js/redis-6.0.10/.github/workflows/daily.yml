@@ -1,4 +1,4 @@
-name: Daily
+ame: Daily
 
 on:
   pull_request:
