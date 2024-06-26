@@ -89,7 +89,7 @@ Reply: 1
   Cali: '40',
   Paris: '2'
 }
-^C
+
 bob@dylan:~$
 Requirements:
 Use callbacks for any of the operation, we will look at async operations later.
