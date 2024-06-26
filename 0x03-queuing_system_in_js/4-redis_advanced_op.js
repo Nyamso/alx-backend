@@ -1,4 +1,4 @@
-#!/usr/bin/yarn dev
+!/usr/bin/yarn dev
 import { createClient, print } from 'redis';
 
 const client = createClient();
